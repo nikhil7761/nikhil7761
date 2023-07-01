@@ -1,9 +1,4 @@
- _____  ___________ _____ _    _  ___  ______ _____   _____ _   _ _____ _____ _   _  _____ ___________ 
-/  ___||  _  |  ___|_   _| |  | |/ _ \ | ___ \  ___| |  ___| \ | |  __ \_   _| \ | ||  ___|  ___| ___ \
-\ `--. | | | | |_    | | | |  | / /_\ \| |_/ / |__   | |__ |  \| | |  \/ | | |  \| || |__ | |__ | |_/ /
- `--. \| | | |  _|   | | | |/\| |  _  ||    /|  __|  |  __|| . ` | | __  | | | . ` ||  __||  __||    / 
-/\__/ /\ \_/ / |     | | \  /\  / | | || |\ \| |___  | |___| |\  | |_\ \_| |_| |\  || |___| |___| |\ \ 
-\____/  \___/\_|     \_/  \/  \/\_| |_/\_| \_\____/  \____/\_| \_/\____/\___/\_| \_/\____/\____/\_| \_|
+Object-oriented programming languages support encapsulation, thereby improving the ability of software to be reused, refined, tested, maintained, and extended. The full benefit of this support can only be realized if encapsulation is maximized during the design process.
                                                                                                        
                                           
 
