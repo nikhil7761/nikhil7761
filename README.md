@@ -1,201 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ReactJs<br>💬 Ask me about Java, SpringBoot <br>⚡ Fun fact I Think I Am Funny
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DevOps Engineer Portfolio</title>
-    <style>
-        /* Front-end Section Styles */
-        .front-section {
-            background-color: #007bff;
-            color: #fff;
-            padding: 50px 0;
-            text-align: center;
-        }
 
-        .front-section h1 {
-            margin-bottom: 20px;
-        }
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhilvargude123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nikhil-vargude2000) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nikhilvargude3452) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@vargudebrother) 
 
-        .front-section p {
-            margin-bottom: 0;
-        }
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650753-852189c1-9c35-4e3b-9d7e-24ed50f5e03d.gif">
 
-        /* Main Styles */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh; /* Ensure that the body takes up at least the height of the viewport */
-        }
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikhil7761&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikhil7761&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil7761&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-        .container {
-            flex: 1; /* Allow the container to grow to fill remaining vertical space */
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 5px;
-        }
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=nikhilvargude3452)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-        h1,
-        h2 {
-            text-align: center;
-        }
+---
+[![](https://visitcount.itsvg.in/api?id=nikhil7761&icon=0&color=0)](https://visitcount.itsvg.in)
 
-        h2 {
-            margin-top: 20px;
-        }
-
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-
-        li {
-            margin-bottom: 10px;
-        }
-
-        /* Footer Styles */
-        footer {
-            background-color: #007bff;
-            color: #fff;
-            padding: 20px;
-            text-align: center;
-            flex-shrink: 0; /* Prevent footer from shrinking */
-        }
-    </style>
-</head>
-
-<body>
-    <!-- Front-end Section -->
-    <div class="front-section">
-        <h1>Welcome to Nikhil Vargude's DevOps Engineer Portfolio</h1>
-        <p>Building innovative solutions for seamless integration and deployment of applications</p>
-    </div>
-
-    <!-- Main Content -->
-    <div class="container">
-        <h1>Nikhil Vargude - DevOps Engineer</h1>
-        <h2>About Me:</h2>
-        <p>
-            I am a passionate DevOps Engineer with 8 months of hands-on experience in efficiently deploying code to
-            test, production, and UAT environments, primarily utilizing Azure DevOps pipelines. My expertise lies in
-            streamlining the development process through automation, ensuring seamless integration and deployment of
-            applications. I am adept at leveraging various tools such as SonarQube, GitHub, AWS, and FortiGate, enabling
-            agile development practices within the team.
-        </p>
-
-        <h2>Key Skills:</h2>
-        <ul>
-            <li>Proficient in deploying code to test, production, and UAT environments using Azure DevOps pipelines.
-            </li>
-            <li>Experienced in version control and collaboration using Git and GitHub.</li>
-            <li>Skilled in implementing continuous integration and continuous deployment (CI/CD) pipelines.</li>
-            <li>Familiar with cloud technologies, particularly AWS, for scalable and reliable infrastructure.</li>
-            <li>Knowledgeable in utilizing SonarQube for code quality analysis and ensuring code maintainability.</li>
-            <li>Competent in configuring and managing network security using FortiGate.</li>
-            <li>Strong understanding of agile development methodologies and their application in DevOps practices.</li>
-        </ul>
-
-        <h2>Projects:</h2>
-        <ol>
-            <li>
-                <h3>UAT Deployment Automation (Azure DevOps):</h3>
-                <p>
-                    Developed and maintained Azure DevOps pipelines for automating the deployment process to test,
-                    production, and UAT environments. Implemented CI/CD practices to ensure rapid and reliable delivery
-                    of features to stakeholders. Integrated with GitHub for version control and collaboration, ensuring
-                    seamless code deployment.
-                </p>
-            </li>
-            <li>
-                <h3>Code Quality Analysis (SonarQube Integration):</h3>
-                <p>
-                    Integrated SonarQube into the development workflow to analyze code quality and identify potential
-                    issues. Configured quality gates to enforce coding standards and improve overall code
-                    maintainability. Collaborated with development teams to address identified issues and enhance code
-                    quality.
-                </p>
-            </li>
-            <li>
-                <h3>Gitea Implementation (Self-hosted Version Control):</h3>
-                <p>
-                    Orchestrated the deployment and administration of a self-hosted instance of Gitea, an open-source
-                    Git platform, as part of the organization's DevOps toolchain. Implemented Gitea installation
-                    on-premises, leveraging infrastructure as code (IaC) principles and automation tools to streamline
-                    the deployment process and ensure consistency across environments. Designed and enforced granular
-                    access controls within Gitea, utilizing role-based access control (RBAC) mechanisms and whitelisted
-                    user configurations to manage merge permissions and branch access with precision. Engineered branch
-                    protection strategies within Gitea to safeguard critical branches, enforcing code review policies,
-                    and preventing unauthorized changes that could impact software stability and reliability.
-                </p>
-            </li>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-            <li>
-                <h3>Cloud Infrastructure Management (AWS):</h3>
-                <p>
-                    Leveraged various AWS services including EC2, RDS, S3, Glacier, Lambda, SNS, and Route 53 for
-                    comprehensive infrastructure management:
-                <ul>
-                    <li>Utilized EC2 for virtual server instances and leveraged AMI snapshots for backup and disaster
-                        recovery purposes.</li>
-                    <li>Managed relational databases using RDS and implemented RDS snapshots for database backups and
-                        point-in-time recovery.</li>
-                    <li>Stored and archived data securely using S3 for object storage and Glacier for long-term data
-                        archival.</li>
-                    <li>Automated backup processes by writing Lambda functions to create daily EC2 and RDS snapshots,
-                        integrated with SNS for notifications, and scheduled tasks using cron jobs.</li>
-                    <li>Monitored system health and performance metrics, including CPU utilization, using Route 53
-                        health checks and CloudWatch alarms.</li>
-                </ul>
-                Implemented automation scripts using AWS CLI and Infrastructure as Code (IaC) tools such as AWS
-                CloudFormation or AWS CDK for efficient resource management and deployment. Ensured scalability,
-                security, and high availability of cloud-based applications and services by implementing best practices
-                and utilizing features like auto-scaling, encryption, and multi-AZ deployments.
-                </p>
-            </li>
-
-            <li>
-                <h3>Network Security (FortiGate):</h3>
-                <p>
-                    Configured and managed FortiGate firewalls to enforce network security policies and protect against
-                    threats. Implemented VPN tunnels for secure communication between on-premises and cloud
-                    environments. Conducted regular security audits and applied best practices to mitigate potential
-                    vulnerabilities.
-                </p>
-            </li>
-        </ol>
-
-        <h2>Certifications</h2>
-        <h3>Azure DevOps Bootcamp (Udemy)</h3>
-        <p>
-            Successfully completed the Azure DevOps Bootcamp on Udemy, acquiring comprehensive knowledge and practical
-            skills in Azure DevOps pipelines, Repos, and Boards. Implemented CI/CD pipelines for automating building,
-            testing, and deployment processes, enhancing development efficiency and productivity. Utilized Azure Repos
-            for effective version control and collaboration, ensuring seamless code management within the team.
-            Demonstrated proficiency in agile project management using Azure Boards, facilitating task tracking, sprint
-            planning, and team collaboration.
-        </p>
 
 
-        <h2>Contact:</h2>
-        <p>Email: nikhilvargudedevops@gmail.com</p>
-        <p>Mobile No: 7057508966</p>
-        <p>Linkedin:https://www.linkedin.com/in/nikhil-vargude2000/</p>
 
-    </div>
 
-    <!-- Footer -->
-    <footer class="footer">
-        <p>&copy; 2024 Nikhil Vargude - DevOps Engineer</p>
-    </footer>
-</body>
 
-</html>
+
+
+
+
+
+
+
+<!---
+nikhil7761/nikhil7761 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
