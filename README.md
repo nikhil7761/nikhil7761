@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I’m **Nikhil Vargude**  
-🚀 **AWS DevOps Engineer** with 2+ years of hands-on experience in cloud infrastructure, CI/CD automation, and application deployments across on-premises and AWS environments.
+🚀 **AWS DevOps Engineer** with 3+ years of hands-on experience in cloud infrastructure, CI/CD automation, and application deployments across on-premises and AWS environments.
 
 🔭 Working on **AWS, Docker, Jenkins, Linux & CI/CD pipelines**  
 🌱 Currently learning **Kubernetes & Terraform**  
